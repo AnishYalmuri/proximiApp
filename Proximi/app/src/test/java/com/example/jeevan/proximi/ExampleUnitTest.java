@@ -1,4 +1,4 @@
-package com.example.jeevan.proximi;
+package com.android.project.proximi;
 
 import org.junit.Test;
 
